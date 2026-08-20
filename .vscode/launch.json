@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EntradaSaida",
+            "request": "launch",
+            "mainClass": "EntradaSaida",
+            "projectName": "Aula Java_d6ed6087"
+        },
+        {
+            "type": "java",
+            "name": "VariaveisTipos",
+            "request": "launch",
+            "mainClass": "VariaveisTipos",
+            "projectName": "Aula Java_d6ed6087"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Aula Java_d6ed6087"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Aula Java"
+        }
+    ]
+}
