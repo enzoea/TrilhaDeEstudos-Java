@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "TrilhaDeEstudos-Java_2a92503"
+        },
+        {
+            "type": "java",
+            "name": "Atividade1",
+            "request": "launch",
+            "mainClass": "Atividade1",
+            "projectName": "TrilhaDeEstudos-Java_2a92503"
+        },
+        {
+            "type": "java",
+            "name": "atividade1",
+            "request": "launch",
+            "mainClass": "atividade1",
+            "projectName": "TrilhaDeEstudos-Java_2a92503"
+        },
+        {
+            "type": "java",
             "name": "EntradaSaida",
             "request": "launch",
             "mainClass": "EntradaSaida",

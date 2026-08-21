@@ -8,6 +8,10 @@ Cada exercício tem seu arquivo de resolução com o mesmo número, ex.: exercí
 
 Leia um número inteiro e diga se ele é par ou ímpar.
 
+Pedir o número
+Ver se é par
+Mostrar o resultado
+
 ```
 Entrada: 7
 Saida: Impar
